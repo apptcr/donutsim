@@ -23,12 +23,10 @@
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
 
 - **Frontend:** HTML5, JavaScript (Vanilla ES6+)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) (via CDN), Custom CSS
-- **Fonts & Icons:** [Google Fonts (Prompt)](https://fonts.google.com/specimen/Prompt), [Font Awesome 6](https://fontawesome.com/)
+- **Styling:** Tailwind CSS (via CDN), Custom CSS
+- **Fonts & Icons:** Google Fonts (Prompt), Font Awesome 6
 
 ---
-
-##
 
 โปรเจกต์นี้จัดทำขึ้นเพื่อความบันเทิงและการใช้งานในชุมชนผู้เล่นเกม Pokémon เท่านั้น ภาพประกอบและเครื่องหมายการค้าเกี่ยวกับ Pokémon เป็นลิขสิทธิ์ของ Nintendo, Creatures Inc., และ GAME FREAK inc.
 
